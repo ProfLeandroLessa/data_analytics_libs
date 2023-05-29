@@ -1,0 +1,52 @@
+[
+	{
+		"cod_cliente": 1,
+		"sexo": 1,
+		"idade": 26,
+		"qtd_filhos": 2,
+		"estado_civil": 3,
+		"cod_estado": 13,
+		"hipertenso": 0,
+		"diabetes": 1
+	},
+	{
+		"cod_cliente": 2,
+		"sexo": 1,
+		"idade": 58,
+		"qtd_filhos": 0,
+		"estado_civil": 2,
+		"cod_estado": 2,
+		"hipertenso": 0,
+		"diabetes": 0
+	},
+	{
+		"cod_cliente": 3,
+		"sexo": 1,
+		"idade": 63,
+		"qtd_filhos": 1,
+		"estado_civil": 3,
+		"cod_estado": 11,
+		"hipertenso": 1,
+		"diabetes": 1
+	},
+	{
+		"cod_cliente": 4,
+		"sexo": 1,
+		"idade": 58,
+		"qtd_filhos": 2,
+		"estado_civil": 2,
+		"cod_estado": 11,
+		"hipertenso": 1,
+		"diabetes": 1
+	},
+	{
+		"cod_cliente": 5,
+		"sexo": 0,
+		"idade": 70,
+		"qtd_filhos": 0,
+		"estado_civil": 1,
+		"cod_estado": 5,
+		"hipertenso": 0,
+		"diabetes": 1
+	}
+]
